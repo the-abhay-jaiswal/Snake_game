@@ -19,7 +19,7 @@ To play again, press 'P'. To quit, press 'Q'.
 - Python 3.x
 - Pygame
 ## Controls
-### Arrow keys: Control the snake's direction
+Arrow keys: Control the snake's direction
 - 'P': Play again (after Game Over)
 - 'Q': Quit the game (after Game Over)
 ## Enjoy the Game!
